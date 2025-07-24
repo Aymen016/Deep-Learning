@@ -7,7 +7,8 @@ This repo contains foundational deep learning and machine learning projects buil
 
 ## 📁 Project Structure
 
-### 📌 Gradient Descent on Dataset
+### 🏡 Gradient Descent on Ames Housing Price Prediction
+
 Implementing **Linear Regression** using Gradient Descent to predict housing prices (based on the Ames dataset).
 
 - 🚀 Trains a model from scratch.
@@ -18,7 +19,7 @@ Implementing **Linear Regression** using Gradient Descent to predict housing pri
 
 ---
 
-### 🐱 Logistic Regression
+### 🐱 Logistic Regression on Cat Classifier 
 Binary image classifier to distinguish **cats** from **non-cats** using Logistic Regression.
 
 - 🧠 Built using only **NumPy** – no ML libraries!
@@ -46,6 +47,7 @@ Multi-Layer Perceptron (MLP) to classify non-linearly separable **planar dataset
 - NumPy
 - Matplotlib
 - Jupyter Notebooks
+- Dee[ Learning Models
 
 ---
 
