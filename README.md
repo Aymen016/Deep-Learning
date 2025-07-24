@@ -55,7 +55,7 @@ Multi-Layer Perceptron (MLP) to classify non-linearly separable **planar dataset
 
 **Aymen Baig**  
 📧 [ayemenbaig26@gmail.com](mailto:ayemenbaig26@gmail.com)  
-🔗 [GitHub Profile](https://github.com/Aymen016)
+🔗 [Aymen016](https://github.com/Aymen016)
 
 ---
 
